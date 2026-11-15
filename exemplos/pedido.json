@@ -1,0 +1,12 @@
+{
+  "cliente": "Maria Exemplo",
+  "telefone": "(31) 90000-0000",
+  "papel": "PP-203",
+  "paredes": [
+    {"descricao": "Parede da TV", "largura_m": 3.2, "altura_m": 2.7},
+    {"descricao": "Parede lateral", "largura_m": 2.5, "altura_m": 2.7, "descontos_m2": 1.6}
+  ],
+  "mao_de_obra_m2": 25.0,
+  "frete": 40.0,
+  "prazo_dias_uteis": 15
+}

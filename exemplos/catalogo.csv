@@ -1,0 +1,8 @@
+codigo,nome,colecao,cor_principal,cor_secundaria,largura_m,comprimento_m,rapport_cm,preco_rolo
+PP-101,Linho Areia,Texturas,#D8C8AE,#C2B092,0.53,10,0,189.90
+PP-102,Linho Grafite,Texturas,#4A4A4A,#6B6B6B,0.53,10,0,189.90
+PP-203,Folhagem Tropical,Botânica,#2F5D50,#A8C5A0,0.53,10,64,249.90
+PP-204,Floral Rosé,Botânica,#E8C4C4,#B76E79,0.53,10,53,229.90
+PP-305,Geométrico Azul,Geométricos,#1F3A5F,#E6EEF5,0.53,10,32,219.90
+PP-306,Listras Off-White,Geométricos,#F4F1EA,#CFC6B4,0.53,10,0,199.90
+PP-407,Infantil Nuvens,Kids,#BFD9F2,#FFFFFF,0.53,10,26,209.90
