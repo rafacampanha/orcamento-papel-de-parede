@@ -1,6 +1,13 @@
 import pytest
 
-from orcamento.calculo import Papel, Parede, brl, calcular, faixas_por_rolo, rolos_necessarios
+from orcamento.calculo import (
+    Papel,
+    Parede,
+    brl,
+    calcular,
+    faixas_por_rolo,
+    rolos_necessarios,
+)
 from orcamento.gerar import carregar_catalogo, mensagem_whatsapp
 
 LISO = Papel("X", "Liso", "T", "#fff", "#000", 0.53, 10, 0, 100.0)
