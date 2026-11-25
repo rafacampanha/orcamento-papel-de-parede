@@ -1,5 +1,7 @@
 # 🧻 Orçamento automático de papel de parede
 
+[![Testes](https://github.com/rafacampanha/orcamento-papel-de-parede/actions/workflows/testes.yml/badge.svg)](https://github.com/rafacampanha/orcamento-papel-de-parede/actions/workflows/testes.yml)
+
 Ferramenta que transforma as **medidas das paredes** do cliente em um **orçamento completo**: calcula a quantidade de rolos (considerando o *rapport* da estampa), soma instalação e frete, gera um **PDF com a amostra de cores** do papel e uma **mensagem pronta para o WhatsApp**.
 
 > Criada para o meu negócio de papel de parede (venda sob encomenda), para responder clientes em segundos em vez de fazer a conta na mão.
